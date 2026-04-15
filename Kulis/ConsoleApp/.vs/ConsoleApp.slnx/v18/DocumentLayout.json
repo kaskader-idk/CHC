@@ -1,0 +1,84 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\User\\Documents\\Schule\\CHC\\CHC\\Kulis\\ConsoleApp\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{96E552A8-804B-40C3-BB47-F35429B347F0}|ConsoleApp\\ConsoleApp.csproj|c:\\users\\user\\documents\\schule\\chc\\chc\\kulis\\consoleapp\\consoleapp\\programm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{96E552A8-804B-40C3-BB47-F35429B347F0}|ConsoleApp\\ConsoleApp.csproj|solutionrelative:consoleapp\\programm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{96E552A8-804B-40C3-BB47-F35429B347F0}|ConsoleApp\\ConsoleApp.csproj|c:\\users\\user\\documents\\schule\\chc\\chc\\kulis\\consoleapp\\consoleapp\\readwrite.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{96E552A8-804B-40C3-BB47-F35429B347F0}|ConsoleApp\\ConsoleApp.csproj|solutionrelative:consoleapp\\readwrite.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 5,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{75188d03-9892-4ae2-abf1-207126247ce5}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:2:0:{e8034f19-ab72-4f06-83fd-f6832b41aa63}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{004be353-6879-467c-9d1e-9ac23cdf6d49}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ReadWrite.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Documents\\Schule\\CHC\\CHC\\Kulis\\ConsoleApp\\ConsoleApp\\ReadWrite.cs",
+              "RelativeDocumentMoniker": "ConsoleApp\\ReadWrite.cs",
+              "ToolTip": "C:\\Users\\User\\Documents\\Schule\\CHC\\CHC\\Kulis\\ConsoleApp\\ConsoleApp\\ReadWrite.cs",
+              "RelativeToolTip": "ConsoleApp\\ReadWrite.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABoAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-15T06:44:13.655Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Programm.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Documents\\Schule\\CHC\\CHC\\Kulis\\ConsoleApp\\ConsoleApp\\Programm.cs",
+              "RelativeDocumentMoniker": "ConsoleApp\\Programm.cs",
+              "ToolTip": "C:\\Users\\User\\Documents\\Schule\\CHC\\CHC\\Kulis\\ConsoleApp\\ConsoleApp\\Programm.cs",
+              "RelativeToolTip": "ConsoleApp\\Programm.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-15T06:41:46.984Z",
+              "EditorCaption": ""
+            }
+          ]
+        },
+        {
+          "DockedWidth": 1179,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
