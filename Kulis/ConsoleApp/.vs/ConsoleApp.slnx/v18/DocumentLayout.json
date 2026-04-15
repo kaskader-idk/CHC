@@ -3,12 +3,12 @@
   "WorkspaceRootPath": "C:\\Users\\User\\Documents\\Schule\\CHC\\CHC\\Kulis\\ConsoleApp\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{96E552A8-804B-40C3-BB47-F35429B347F0}|ConsoleApp\\ConsoleApp.csproj|c:\\users\\user\\documents\\schule\\chc\\chc\\kulis\\consoleapp\\consoleapp\\programm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{96E552A8-804B-40C3-BB47-F35429B347F0}|ConsoleApp\\ConsoleApp.csproj|solutionrelative:consoleapp\\programm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{B8A3FBFD-A877-AB3A-3856-A3E51268C209}|ConsoleApp\\ConsoleApp.csproj|c:\\users\\user\\documents\\schule\\chc\\chc\\kulis\\consoleapp\\consoleapp\\aufgabe1\\aufgabe1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B8A3FBFD-A877-AB3A-3856-A3E51268C209}|ConsoleApp\\ConsoleApp.csproj|solutionrelative:consoleapp\\aufgabe1\\aufgabe1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{96E552A8-804B-40C3-BB47-F35429B347F0}|ConsoleApp\\ConsoleApp.csproj|c:\\users\\user\\documents\\schule\\chc\\chc\\kulis\\consoleapp\\consoleapp\\readwrite.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{96E552A8-804B-40C3-BB47-F35429B347F0}|ConsoleApp\\ConsoleApp.csproj|solutionrelative:consoleapp\\readwrite.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{B8A3FBFD-A877-AB3A-3856-A3E51268C209}|ConsoleApp\\ConsoleApp.csproj|c:\\users\\user\\documents\\schule\\chc\\chc\\kulis\\consoleapp\\consoleapp\\readwrite.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B8A3FBFD-A877-AB3A-3856-A3E51268C209}|ConsoleApp\\ConsoleApp.csproj|solutionrelative:consoleapp\\readwrite.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -18,7 +18,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 5,
+          "SelectedChildIndex": 7,
           "Children": [
             {
               "$type": "Bookmark",
@@ -37,6 +37,14 @@
               "Name": "ST:0:0:{004be353-6879-467c-9d1e-9ac23cdf6d49}"
             },
             {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
               "$type": "Document",
               "DocumentIndex": 1,
               "Title": "ReadWrite.cs",
@@ -52,12 +60,12 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "Programm.cs",
-              "DocumentMoniker": "C:\\Users\\User\\Documents\\Schule\\CHC\\CHC\\Kulis\\ConsoleApp\\ConsoleApp\\Programm.cs",
-              "RelativeDocumentMoniker": "ConsoleApp\\Programm.cs",
-              "ToolTip": "C:\\Users\\User\\Documents\\Schule\\CHC\\CHC\\Kulis\\ConsoleApp\\ConsoleApp\\Programm.cs",
-              "RelativeToolTip": "ConsoleApp\\Programm.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAAAAAAAAAAAAAA==",
+              "Title": "aufgabe1.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Documents\\Schule\\CHC\\CHC\\Kulis\\ConsoleApp\\ConsoleApp\\Aufgabe1\\aufgabe1.cs",
+              "RelativeDocumentMoniker": "ConsoleApp\\Aufgabe1\\aufgabe1.cs",
+              "ToolTip": "C:\\Users\\User\\Documents\\Schule\\CHC\\CHC\\Kulis\\ConsoleApp\\ConsoleApp\\Aufgabe1\\aufgabe1.cs",
+              "RelativeToolTip": "ConsoleApp\\Aufgabe1\\aufgabe1.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAA0AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-04-15T06:41:46.984Z",
               "EditorCaption": ""
