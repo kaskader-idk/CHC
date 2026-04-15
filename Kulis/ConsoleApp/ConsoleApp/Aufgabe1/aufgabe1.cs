@@ -4,7 +4,7 @@ using System.IO;
 
 class Program
 {
-    static void Main(string[] args)
+    static void Main2(string[] args)
     {
         // =============================================
         // HIER KANNST DU DIE PFade UND DATEINAMEN ÄNDERN
